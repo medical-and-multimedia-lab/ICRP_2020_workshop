@@ -1,0 +1,40 @@
+#index_info{
+    text-align: justify;
+}
+
+#topic_li{
+    margin: 1% 0;
+}
+
+#contact{
+    margin: 1% 0;
+}
+
+.posts-list__post {
+    
+    /* max-width: 100%;
+    height: 400px; */
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.posts-list__post__title {
+    /* font-size: 600%; */
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+.posts-list__post__meta {
+    /* font-size: 300%; */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
